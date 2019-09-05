@@ -15,13 +15,13 @@ export default class HomePage extends Component<Props> {
         this.state = {
             inputRstp: "",
             userData: {
-                playUrl: "rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov",
+                playUrl: "http://feifei.feifeizuida.com/20190905/17502_323abb39/index.m3u8",
                 videoTitle: "测试Rtsp",
             },
 
             inputVideo: "",
             videoData: {
-                playUrl: "http://9890.vod.myqcloud.com/9890_4e292f9a3dd011e6b4078980237cc3d3.f20.mp4",
+                playUrl: "http://zy.kubozy-youku-163-aiqi.com/20190831/18636_b2ebc7cc/index.m3u8",
                 smallTitle: "测试小视频",
                 smallTitleColor:"#000fff",
                 smallTitleSize: 40,

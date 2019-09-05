@@ -1,7 +1,7 @@
 # GsyVideoRNDemo
-React-Native  GsyVideo播放视频及rtsp实时流（Android原生实现自定view）
+React-Native  GsyVideo播放视频及m3u8格式（Android原生实现自定view）
 
-### 播放rtsp实时流
+### 播放m3u8格式
 
  1. 自定义播放布局，通过RN传参控制url，title等播放所需参数。播放/暂停等提供方法调用`
  
@@ -18,5 +18,4 @@ React-Native  GsyVideo播放视频及rtsp实时流（Android原生实现自定vi
 
  #### 播放视频暂用GsyVideo提供样式，可进行扩展。
 
-##### demo 中对应的apk，安装运行即可
  
